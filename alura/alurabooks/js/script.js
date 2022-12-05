@@ -8,6 +8,7 @@ async function buscaEndereco(cep) {
     if (consultaCepConvertido.erro) {
       throw Error("CPF não existente!");
     }
+    menssagemErro.innerHTML = ""
     var cidade = document.getElementById('cidade')
     var logradouro = document.getElementById('endereco')
     var estado = document.getElementById('estado')
