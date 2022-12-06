@@ -1,0 +1,19 @@
+{
+  "name": "curso-javascript",
+  "version": "1.0.0",
+  "description": "Curso de JavaScript do Curso em Vídeo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soareslp/curso-javascript/aluraplay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soareslp/curso-javascript/aluraplayissues"
+  },
+  "homepage": "https://github.com/soareslp/curso-javascript/aluraplay#readme"
+}
